@@ -1,10 +1,10 @@
 #Create two dictionaries to represent information about two pets
 # the pet dictionary
-Malachi = {
-    'type of pet': 'Cane Corso Dog',
+Mondo = {
+    'type of pet': 'Corgi Dog',
     'color': 'Black',
-    'nickname': 'MB',
-    'owners name': 'Mayes',
+    'nickname': 'Mondo',
+    'owners name': 'Mason',
 }
 Ruger = {
     'type of pet': 'Basenji Dog',
